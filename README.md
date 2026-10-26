@@ -47,7 +47,7 @@ terraform apply
 docker ps
 ```
 
-Open http://localhost:8080 to access the Nginx welcome page.
+Open http://localhost:8081 to access the Nginx welcome page.
 
 ### 5. Inspect Terraform State
 ```bash
